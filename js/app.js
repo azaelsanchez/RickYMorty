@@ -1,0 +1,1 @@
+axios.get('https://rickandmortyapi.com/api/').then( res => console.log(res))
